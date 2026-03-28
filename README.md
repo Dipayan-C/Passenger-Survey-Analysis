@@ -39,7 +39,7 @@ The dataset includes survey responses from passengers, covering:
 
 - R
 - Base R (glm)
-- ggplot2 (if used)
+- ggplot2
 
 ## Author
 
