@@ -28,4 +28,19 @@ The dataset includes survey responses from passengers, covering:
 - Flight type and travel frequency have little impact on overall experience
 - A simpler model using fewer variables performed best based on AIC
 
-## Project Structure
+
+## How to Run
+
+1. Open the R script in RStudio (or another R environment)
+2. Install required packages if needed
+3. Run the script to reproduce the analysis
+
+## Technologies Used
+
+- R
+- Base R (glm)
+- ggplot2 (if used)
+
+## Author
+
+Dipayan Chowdhury
